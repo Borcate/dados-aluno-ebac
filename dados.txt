@@ -1,9 +1,10 @@
 Dados do aluno
 
--Primeiro Nome: 
--Profissão: 
--Cidade: 
--O que faz nas horas vaga: 
+-Primeiro Nome: Janaina
+-Profissão: Analista de Testes
+-Cidade: Campina Grande do Sul 
+-O que faz nas horas vaga: Assisto, leio, estudo
+-Feedback sobre o curso Qualidade de Software: O curso é muito bom, já estou colocando em prática
 -Feedback sobre a plataforma de estudo da EBAC: 
 
 Obrigado!!!

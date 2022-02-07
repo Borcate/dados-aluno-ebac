@@ -1,11 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Janaina Borcate
+-Profissão: Analista de Testes
+-Cidade: Campina Grande do Sul
+-O que faz nas horas vaga: Leio, assito TV, estudo
+-Feedback sobre o curso Qualidade de Software: Com o cuso aprendi muitas coisas que não sabia.
+Está fácil de compreender e colocar em prática. 
+-Feedback sobre a plataforma de estudo da EBAC: É fácil de acessar, a plataforma é bem simples, 
+assim não tem dificuldades para procurar os conteúdos. 
 
 Obrigado!!!
 
